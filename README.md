@@ -61,7 +61,6 @@ This is a screenshot from my full-stack **Social Media App** built using the **M
 
 - 🌟 Deepen expertise in **Full-stack development** and incorporate modern DevOps practices to streamline project workflows.
 - 💻 Build influential mobile apps using **Flutter**.
-- 🚀 Achieve **AWS Certified Developer** and **Azure Fundamentals** certifications.
 
 ## Reach Out
 
